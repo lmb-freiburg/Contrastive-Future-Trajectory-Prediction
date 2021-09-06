@@ -1,3 +1,8 @@
+""" This code is based on the Trajectron++ repository.
+
+    For usage, see the License of Trajectron++ under:
+    https://github.com/StanfordASL/Trajectron-plus-plus
+"""
 import torch
 import numpy as np
 from Trajectron_plus_plus.trajectron.model.trajectron import Trajectron

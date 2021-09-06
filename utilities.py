@@ -1,3 +1,8 @@
+""" This code is based on the Trajectron++ repository.
+
+    For usage, see the License of Trajectron++ under:
+    https://github.com/StanfordASL/Trajectron-plus-plus
+"""
 import torch
 from Trajectron_plus_plus.trajectron.model.dynamics.single_integrator import SingleIntegrator as SingleIntegratorCVAE
 from Trajectron_plus_plus.trajectron.model.dynamics.unicycle import Unicycle as UnicycleCVAE
