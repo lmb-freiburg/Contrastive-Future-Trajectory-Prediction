@@ -8,6 +8,10 @@ This repository corresponds to the official source code of the ICCV 2021 paper:
 We use the same requirements as the Trajectron++, see:
 https://github.com/StanfordASL/Trajectron-plus-plus
 
+Additionally, it is essential to download the Trajectron++ code, rename it to ```Trajectron_plus_plus``` and place it next to other folders (e.g., `data/, models/`).
+
+
+
 ### Data
 
 #### ETH-UCY: 
